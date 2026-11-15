@@ -7,8 +7,8 @@ Terragrunt와 Istio(Ambient)를 로컬 kind 클러스터에서 학습하고, 회
 
 | 폴더 | 내용 |
 |---|---|
-| `docs/notes/` | 학습 노트. `_template.md` 를 복사해 `YYYY-MM-DD-주제.md` 로 쓴다 |
-| `docs/blog/` | 노트를 정리한 블로그 원고 |
+| `docs/notes/` | 학습 노트 템플릿. 노트 원문은 로컬에만 두고 블로그 글로 정리해 공개한다 |
+| `docs/blog/` | 블로그에 공개한 글의 원고 |
 | `private/` | 저장소에 올리지 않는 개인 메모 (.gitignore) |
 
 ## 구조
@@ -137,7 +137,7 @@ kind get clusters          # 비어 있어야 함
 
 ## 6. 실습 기록
 
-`docs/notes/week1.md` (또는 `_template.md` 를 복사한 노트)를 채운다. 노트가 블로그 원고(`docs/blog/`)로 정리된다.
+`docs/notes/week1.md` (또는 `_template.md` 를 복사한 노트)를 채운다. 정리한 내용은 블로그 글로 올린다.
 에러가 나면 **에러 메시지 원문 전체**와 **무엇을 해서 해결했는지**를 꼭 남긴다.
 
 ## 참고 문서
