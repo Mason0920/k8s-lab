@@ -2,6 +2,7 @@
 
 Terragrunt와 Istio(Ambient)를 로컬 kind 클러스터에서 학습하고, 회사 EKS에 적용할 방안을 찾기 위한 실습 저장소.
 과정은 블로그 https://thereisnotherway.tistory.com/ 에 연재한다.
+정리된 결과물은 https://github.com/Mason0920/platform-lab 에 옮긴다.
 
 ## 기록 방식
 
